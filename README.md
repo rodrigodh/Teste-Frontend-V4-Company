@@ -23,6 +23,8 @@
 ![Reponsibilidade Mobile](https://i.imgur.com/u0bhxag.png)
 <br>![Web](https://i.imgur.com/iESApmE.png) <br>
 
+## Fechamento
 
+Aprendi algumas coisas incriveis com o projeto, como o Prop-Types, React-Pose, etc que funcionam perfeitamente. Espero que tenha ficado bom, obrigado desde já :D
 
 
